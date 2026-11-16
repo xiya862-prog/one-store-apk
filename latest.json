@@ -1,10 +1,8 @@
-
 {
   "packageName": "com.oneuirepo.app",
-  "versionName": "1.14.39",
-  "versionCode": 216836534,
-  "apkFile": "one-store-v1.14.39.apk",
-  "downloadUrl": "https://github.com/xiya862-prog/one-store-apk/raw/refs/heads/main/one-store-v1.14.39.apk",
-  "releaseNotes": "ONE STORE 1.14.39 正式版本",
+  "versionName": "1.14.43",
+  "versionCode": 216982897,
+  "apkUrl": "https://raw.githubusercontent.com/xiya862-prog/one-store-apk/main/one-store.apk",
+  "releaseNotes": "优化应用体验，修复已知问题。",
   "forceUpdate": false
 }
