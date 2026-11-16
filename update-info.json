@@ -1,4 +1,5 @@
+
 {
-  "releaseNotes": "优化应用体验，修复已知问题。",
+  "releaseNotes": "优化 GitHub 登录体验，修复令牌过期问题，提升应用稳定性。",
   "forceUpdate": false
 }
