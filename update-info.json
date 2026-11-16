@@ -1,5 +1,6 @@
-
 {
-  "releaseNotes": "优化 GitHub 登录体验，修复令牌过期问题，提升应用稳定性。",
-  "forceUpdate": false
+"releaseNotes": "优化应用商店图标，更新 Galaxy Store 和 APKMirror 透明矢量图标；完善 AI 翻译功能及密钥配置提示；优化首页、AI 助手、每日推荐广场和 GitHub 卡片的夜间模式及 Comics 主题适配；完善项目列表、搜索、分类、专题等页面的深色主题显示；优化 AI 密钥配置弹窗样式；修复 Galaxy Z Fold 展开模式下项目详情页与底部导航切换异常，提升整体交互体验。",
+"forceUpdate": false
 }
+
+
