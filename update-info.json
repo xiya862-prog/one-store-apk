@@ -1,6 +1,4 @@
 {
-"releaseNotes": "优化 GitHub 底部导航栏，解除 F-Droid 应用源限制，修复应用图标无法显示的问题，提升整体浏览体验。",
+"releaseNotes": "优化 GitHub 仓库管理功能，修复登录授权及仓库访问问题，完善私有仓库备份与恢复体验。",
 "forceUpdate": false
 }
-
-
