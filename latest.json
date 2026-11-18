@@ -1,8 +1,8 @@
 {
   "packageName": "com.oneuirepo.app",
-  "versionName": "1.14.63",
-  "versionCode": 217158475,
+  "versionName": "1.14.65",
+  "versionCode": 217161184,
   "apkUrl": "https://raw.githubusercontent.com/xiya862-prog/one-store-apk/main/one-store.apk",
-  "releaseNotes": "优化发现页热门排行榜，接入 GitHub 官方 Trending 数据，规范热门榜和新上榜项目数量，新增 Star 增长榜及今日、近7天、近30天增长统计，简化趋势图表展示，优化排行榜浏览体验。",
+  "releaseNotes": "1. 完善 GitHub 热门排行榜，优化项目展示和趋势图表。\n2. 优化项目详情页环境要求，清理无效链接、字母格式及多余符号。\n3. 修复应用更新通知点击无响应问题，点击通知可直接进入更新中心。",
   "forceUpdate": false
 }
