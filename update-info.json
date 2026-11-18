@@ -1,2 +1,4 @@
-{ "releaseNotes": "Security Engine 1.0 测试版上线，新增 APK 安全检测功能，支持手动上传安装包、查看安全检测结果及引擎明细，优化检测报告界面和 API Key 设置窗口。", "forceUpdate": false }
-
+{
+  "releaseNotes": "Security Engine 1.0 上线，新增 APK 安全检测功能，支持手动上传安装包、查看安全检测结果及引擎明细，优化检测报告界面和 API Key 设置窗口。",
+  "forceUpdate": false
+}
