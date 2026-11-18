@@ -1,8 +1,8 @@
 {
   "packageName": "com.oneuirepo.app",
-  "versionName": "1.14.53",
-  "versionCode": 217051949,
+  "versionName": "1.14.58",
+  "versionCode": 217136614,
   "apkUrl": "https://raw.githubusercontent.com/xiya862-prog/one-store-apk/main/one-store.apk",
-  "releaseNotes": "优化 GitHub 仓库管理功能，修复登录授权及仓库访问问题，完善私有仓库备份与恢复体验。",
+  "releaseNotes": "Security Engine 1.0 上线，新增 APK 安全检测功能，支持手动上传安装包、查看安全检测结果及引擎明细，优化检测报告界面和 API Key 设置窗口。",
   "forceUpdate": false
 }
