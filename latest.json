@@ -1,8 +1,8 @@
 {
   "packageName": "com.oneuirepo.app",
-  "versionName": "1.14.72",
-  "versionCode": 217227356,
+  "versionName": "1.14.77",
+  "versionCode": 217414203,
   "apkUrl": "https://raw.githubusercontent.com/xiya862-prog/one-store-apk/main/one-store.apk",
-  "releaseNotes": "1. 优化自定义来源网页浏览体验，修复页面加载异常，完善广告拦截功能及页面错误提示。\n2. 全面美化 ShizukuStore 应用卡片、搜索栏、分类入口及详情页按钮，优化下载状态展示和操作体验。\n3. 重做应用更新中心布局，优化更新卡片、来源筛选、排序及检查更新状态展示。\n4. 修复 Security Engine 1.0 设置窗口上下跳动问题，优化弹窗操作体验。\n5. 优化 APK 体积，精简不必要的架构文件、语言资源及依赖文件，保留核心功能和安全配置。",
+  "releaseNotes": "1. 管理员中心功能优化：新增 APP 图标上传功能，支持上传至 GitHub 公开图标仓库；新增图标自动与手动校准功能，优化图片显示、裁切及缩放效果，改善图片加载和自定义校准异常问题。\n2. 后端管理与数据维护：完善图标管理、项目数据关联及图标地址保存机制，优化公开数据同步与后台接口处理，提升图标数据的一致性和稳定性。\n3. GitHub 项目页面优化：调整项目卡片布局，将分类与标签并排显示在 APP 名称下方，提升卡片空间利用率，使整体展示更加简洁。",
   "forceUpdate": false
 }
