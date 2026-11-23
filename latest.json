@@ -1,8 +1,8 @@
 {
   "packageName": "com.oneuirepo.app",
-  "versionName": "1.15.01",
-  "versionCode": 217502355,
+  "versionName": "1.15.06",
+  "versionCode": 217605041,
   "apkUrl": "https://raw.githubusercontent.com/xiya862-prog/one-store-apk/main/one-store.apk",
-  "releaseNotes": "1. 新增「导航栏胶囊开关」，统一控制首页与 GitHub 页的液态胶囊效果。\n2. 增加多种胶囊颜色效果及动态渐变选择，支持自定义动画样式。\n3. 新增 0–100% 透明度滑动调节，支持自由调整胶囊透明程度。\n4. 优化胶囊点击波纹效果及颜色选择器布局。\n5. 关闭导航栏胶囊开关时，自动隐藏内部自定义选项并恢复默认胶囊效果。\n6. 将导航栏胶囊开关调整至设置页面最上方，并清理多余字体。\n7. 优化默认胶囊颜色，增加轻微透明质感，使导航栏视觉更加柔和通透。",
+  "releaseNotes": "1. 优化应用更新中心增加关联仓库。\n2. 新增独立的声音与震动设置分区。\n3. GitHub 底部导航栏返回图标。\n4. 优化每日推荐广场整体显示效果。",
   "forceUpdate": false
 }
